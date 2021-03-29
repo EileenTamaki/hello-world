@@ -1,2 +1,3 @@
 # hello-world
-discription
+description
+this is practice
